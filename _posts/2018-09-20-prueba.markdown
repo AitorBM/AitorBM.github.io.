@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Hola"
+---
+
+# Bienvenidos
+
+**Hello world**, Estoy probando.
+
+Hola mundo
